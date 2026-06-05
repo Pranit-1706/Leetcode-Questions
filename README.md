@@ -19,6 +19,7 @@ Personal DSA repository for interview preparation.
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
@@ -32,4 +33,8 @@ Personal DSA repository for interview preparation.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
