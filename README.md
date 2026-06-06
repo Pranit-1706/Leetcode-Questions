@@ -21,6 +21,7 @@ Personal DSA repository for interview preparation.
 | ------- |
 | [0035-search-insert-position](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [2574-left-and-right-sum-differences](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +38,8 @@ Personal DSA repository for interview preparation.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0035-search-insert-position) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
