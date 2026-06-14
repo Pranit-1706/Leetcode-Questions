@@ -22,6 +22,7 @@ Personal DSA repository for interview preparation.
 | [0035-search-insert-position](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [2574-left-and-right-sum-differences](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/2574-left-and-right-sum-differences) |
+| [3838-weighted-word-mapping](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +49,12 @@ Personal DSA repository for interview preparation.
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## String
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
