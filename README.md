@@ -11,6 +11,7 @@ Personal DSA repository for interview preparation.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0516-longest-palindromic-subsequence](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
@@ -52,6 +53,7 @@ Personal DSA repository for interview preparation.
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [3838-weighted-word-mapping](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
