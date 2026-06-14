@@ -26,10 +26,12 @@ Personal DSA repository for interview preparation.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -42,4 +44,8 @@ Personal DSA repository for interview preparation.
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/2574-left-and-right-sum-differences) |
+## Linked List
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
