@@ -21,6 +21,7 @@ Personal DSA repository for interview preparation.
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
@@ -30,6 +31,7 @@ Personal DSA repository for interview preparation.
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
