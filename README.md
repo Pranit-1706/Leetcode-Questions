@@ -21,6 +21,7 @@ Personal DSA repository for interview preparation.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
@@ -31,6 +32,7 @@ Personal DSA repository for interview preparation.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
