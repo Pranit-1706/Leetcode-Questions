@@ -6,6 +6,7 @@ Personal DSA repository for interview preparation.
 ## Math
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -63,6 +64,7 @@ Personal DSA repository for interview preparation.
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3838-weighted-word-mapping](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -72,4 +74,12 @@ Personal DSA repository for interview preparation.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
