@@ -29,6 +29,7 @@ Personal DSA repository for interview preparation.
 | [0088-merge-sorted-array](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0162-find-peak-element) |
 | [2574-left-and-right-sum-differences](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/2574-left-and-right-sum-differences) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3838-weighted-word-mapping](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
@@ -82,4 +83,12 @@ Personal DSA repository for interview preparation.
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Hash Table
+|  |
+| ------- |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
+## Counting
+|  |
+| ------- |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 <!---LeetCode Topics End-->
