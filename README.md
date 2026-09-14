@@ -6,6 +6,7 @@ Personal DSA repository for interview preparation.
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -95,5 +96,6 @@ Personal DSA repository for interview preparation.
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/Pranit-1706/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
